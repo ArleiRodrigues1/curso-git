@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\Projeto teste\\Projeto teste.csproj": {}
+    "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\teste\\curso-git\\Projeto teste\\Projeto teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\Projeto teste\\Projeto teste.csproj": {
+    "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\teste\\curso-git\\Projeto teste\\Projeto teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\Projeto teste\\Projeto teste.csproj",
+        "projectUniqueName": "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\teste\\curso-git\\Projeto teste\\Projeto teste.csproj",
         "projectName": "Projeto teste",
-        "projectPath": "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\Projeto teste\\Projeto teste.csproj",
+        "projectPath": "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\teste\\curso-git\\Projeto teste\\Projeto teste.csproj",
         "packagesPath": "C:\\Users\\Arlei Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\Projeto teste\\obj\\",
+        "outputPath": "C:\\Users\\Arlei Pc\\Documents\\Projeto teste\\Projeto teste\\teste\\curso-git\\Projeto teste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
